@@ -4,3 +4,10 @@ html/images/*
 note.md
 演示用截图/*
 vue.2.6.11.min.js
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
